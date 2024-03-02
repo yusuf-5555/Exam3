@@ -1,0 +1,1 @@
+﻿//Inheritance- unasledstvovat, meros dodan. Dodugirift bayni 2 klass. Da inheritance 2 namud klass ast: 1.Derived class(child) - klasseki meros megira, 2.Base class(parent) - klasseki ay i meros megiran.  

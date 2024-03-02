@@ -1,0 +1,2 @@
+﻿//Abstract class - Yak kismi OOP meboshad, Duyum rohi Polymorphism ast, I ay klasi prostoy bo in fark mekunad ki, Abstract property va abstract method dorad, obyekt soxta nametonem, I hamay chizoy klassi obichnira dora neki konstruktorsh baroi obyekta inishlayz kadan nest baroi fieldora inishlayz kadanay.
+//Abstract method - methode hast ki body nadorad, mo ira boyad override knem da klasi bachagi, agar naknem oshibka meta.

@@ -1,0 +1,2 @@
+﻿//Polimorphism - Yak kismi OOP meboshad, in bisyorshakli meboshad. Misol: Mo yak methoda da klasi ochagi dodagiyem ura bo da klassoi bachagi alish knem, makshad da chand class chand shakla megira. Mo polimorphisma 3 roh dorad: 1.Virtual Methods 2.Abstract class.
+//Virtual methods - yake az rohhoi polimorphism meboshad. In methode hast ki mo da klassi ochagi menavisem va da classoi bachagi override meknem. Maksad methoda ba override ivaz meknem.
